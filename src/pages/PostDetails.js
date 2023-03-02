@@ -17,7 +17,6 @@ const PostDetails = () => {
 
     return (  
         <Header/>
-
     );
 }
  
